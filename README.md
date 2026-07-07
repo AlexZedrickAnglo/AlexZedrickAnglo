@@ -1,135 +1,40 @@
-# Alex Zedrick Anglo
+<h1 align="center">Hi 👋, I'm Alex Zedrick Anglo</h1>
+<h3 align="center">A passionate frontend developer from Africa</h3>
 
-## Full-Stack Software Engineer | Cloud Solutions Architect | Open Source Contributor
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexzedrickanglo&label=Profile%20views&color=0e75b6&style=flat" alt="alexzedrickanglo" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building scalable, efficient, and maintainable applications across the full technology stack.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexzedrickanglo" alt="alexzedrickanglo" /></a> </p>
 
----
+- 🔭 I’m currently working on **GoreBox**
 
-## 🚀 About Me
+- 🌱 I’m currently learning **React**
 
-I'm dedicated to crafting elegant solutions to complex technical problems. With a strong foundation in software architecture, cloud infrastructure, and modern development practices, I focus on delivering high-quality code that makes an impact. I'm committed to continuous learning and staying current with industry best practices and emerging technologies.
+- 👯 I’m looking to collaborate on **GoreBox**
 
-**Key Interests:**
-- Cloud-native application development
-- Microservices architecture
-- DevOps and infrastructure automation
-- Full-stack web and mobile applications
-- Open-source software development
+- 🤝 I’m looking for help with **GoreBox**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/AlexZedrickAnglo](https://github.com/AlexZedrickAnglo)
 
-## 💻 Technical Skills
+- 📝 I regularly write articles on [https://github.com/AlexZedrickAnglo](https://github.com/AlexZedrickAnglo)
 
-### Languages
-- **Primary:** JavaScript/TypeScript, Python, Java
-- **Secondary:** Go, Rust, C++, SQL
+- 💬 Ask me about **React**
 
-### Frontend Development
-- React, Vue.js, Angular
-- HTML5, CSS3, Tailwind CSS
-- Redux, Vuex, Context API
-- Responsive & Accessible UI Design
+- 📫 How to reach me **alexzedrick07@gmail.com**
 
-### Backend Development
-- Node.js, Express.js, Django, Flask
-- RESTful APIs, GraphQL
-- Microservices Architecture
-- Message Queues (RabbitMQ, Kafka)
+- 📄 Know about my experiences [https://github.com/AlexZedrickAnglo](https://github.com/AlexZedrickAnglo)
 
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda, RDS, CloudFormation)
-- Docker, Kubernetes, Docker Compose
-- CI/CD Pipelines (GitHub Actions, Jenkins, GitLab CI)
-- Infrastructure as Code (Terraform, Ansible)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zed" height="30" width="40" /></a>
+<a href="https://fb.com/alex zedrick anglo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex zedrick anglo" height="30" width="40" /></a>
+<a href="https://instagram.com/alexzedrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexzedrick" height="30" width="40" /></a>
+</p>
 
-### Databases
-- Relational: PostgreSQL, MySQL, MariaDB
-- NoSQL: MongoDB, Redis, DynamoDB
-- Data Warehousing: Snowflake, BigQuery
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Tools & Technologies
-- Git, GitHub, GitLab, Bitbucket
-- Linux/Unix Systems
-- Agile/Scrum Methodologies
-- System Design & Architecture
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexzedrickanglo&show_icons=true&locale=en&layout=compact" alt="alexzedrickanglo" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzedrickanglo&show_icons=true&locale=en" alt="alexzedrickanglo" /></p>
 
-## 🎯 Core Competencies
-
-✅ **Software Architecture** — Designing scalable, maintainable systems using SOLID principles and design patterns  
-✅ **Full-Stack Development** — End-to-end application development from UI to database  
-✅ **Cloud Infrastructure** — Building and managing cloud-native applications on AWS, GCP, and Azure  
-✅ **DevOps & Automation** — Containerization, orchestration, and automated deployment pipelines  
-✅ **API Design** — Creating robust, well-documented, and secure RESTful and GraphQL APIs  
-✅ **Database Optimization** — Query optimization, indexing strategies, and data modeling  
-✅ **Code Quality** — TDD, unit testing, integration testing, and continuous improvement  
-
----
-
-## 📂 Featured Projects
-
-### [Project Name](#)
-**Description:** Brief description of what the project does and its significance.
-- **Tech Stack:** TypeScript, React, Node.js, PostgreSQL, Docker
-- **Key Features:** Key feature 1, Key feature 2, Key feature 3
-- **Repository:** [View Code](https://github.com/AlexZedrickAnglo)
-
-### [Another Project](#)
-**Description:** Brief description of what the project does.
-- **Tech Stack:** Python, FastAPI, MongoDB, Kubernetes
-- **Key Features:** Feature highlights
-- **Repository:** [View Code](https://github.com/AlexZedrickAnglo)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexZedrickAnglo&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZedrickAnglo&layout=compact&theme=dark)
-
----
-
-## 🏆 Achievements & Certifications
-
-- **AWS Certified Solutions Architect** (Optional - add if applicable)
-- **Kubernetes Administration Certification** (Optional - add if applicable)
-- Open-source contributor to [Project Name] with 50+ merged pull requests
-- Speaker at [Conference/Meetup] on [Topic]
-
----
-
-## 🤝 Open to Collaboration
-
-I'm actively looking to:
-- Collaborate on innovative open-source projects
-- Contribute to impactful community initiatives
-- Share knowledge through technical writing and mentorship
-- Explore opportunities with forward-thinking teams
-
----
-
-## 📫 Get in Touch
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@YourHandle](https://twitter.com/yourhandle)
-- **Website/Blog:** [Your Portfolio](https://yourwebsite.com)
-- **LeetCode:** [Your Profile](https://leetcode.com/yourprofile)
-
----
-
-## ⚡ Fun Facts
-
-- 🔭 Currently exploring [emerging technology/framework]
-- 📚 Reading "[Book Title]" about [subject]
-- 🎮 In my free time, I enjoy [hobby]
-- 💡 Passionate about mentoring junior developers and fostering inclusive tech communities
-
----
-
-**Last Updated:** July 7, 2026
-
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexzedrickanglo&" alt="alexzedrickanglo" /></p>
